@@ -1,0 +1,11 @@
+CREATE DATABASE db_npm_pert7;
+
+USE db_npm_pert7;
+
+CREATE TABLE mahasiswa (
+id int(6) unsigned NOT NULL AUTO_INCREMENT,
+npm CHAR(8) NOT NULL,
+nama VARCHAR(30) NOT NULL,
+kelas CHAR(5) NOT NULL,
+profile VARCHAR(30) NOT NULL,
+PRIMARY KEY (`id`));

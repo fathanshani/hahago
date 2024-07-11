@@ -1,0 +1,3 @@
+INSERT INTO mahasiswa VALUES ("","51416277","Azman Agung Nugraha","4IA17","gambar1.jpg");
+INSERT INTO mahasiswa VALUES ("","15117348","Rizky Imam Nugroho","3KA01","gambar1.jpg");
+INSERT INTO mahasiswa VALUES ("","52417067","Fahmi Ardhiansyah","3IA03","gambar1.jpg");
